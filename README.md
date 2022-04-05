@@ -1,2 +1,2 @@
-# P_PasswordGenerator
+# Python code
 Python
